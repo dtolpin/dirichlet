@@ -10,15 +10,15 @@ setup(
     version='0.8',
     description='Calculates Dirichlet test and plots 2-simplex Dirichlets',
     author='Eric Suh',
-    author_email='contact@ericsuh.com',
+    author_email='contact@dtolpin.com',
     packages=['dirichlet'],
     install_requires = [
         'scipy >= 0.10.1',
         'numpy >= 1.6.2',
         'matplotlib >= 1.2.0',
     ],
-    url='http://github.com/ericsuh/dirichlet',
-    download_url='https://github.com/ericsuh/dirichlet/zipball/master',
+    url='http://github.com/dtolpin/dirichlet',
+    download_url='https://github.com/dtolpin/dirichlet/zipball/master',
     classifiers=[
         'Programming Language :: Python',
         'Programming Language :: Python :: 2',
