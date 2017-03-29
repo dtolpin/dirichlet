@@ -7,7 +7,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dirichlet',
-    version='10.7',
+    version='0.8',
     description='Calculates Dirichlet test and plots 2-simplex Dirichlets',
     author='Eric Suh',
     author_email='contact@ericsuh.com',
